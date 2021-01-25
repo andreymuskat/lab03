@@ -58,7 +58,6 @@ shared_ptr<T>::shared_ptr(shared_ptr&& r) noexcept
   std::swap(_object, r._object);
 }
 
-
 template <typename T>
 shared_ptr<T>::~shared_ptr() {
   if (!_counter) return;
