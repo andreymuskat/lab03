@@ -1,3 +1,3 @@
-// Copyright 2021 Slava-100 <svat.strel.2001@gmail.com>
+// Copyright 2021 andreymuskat <andreymuskat@yandex.ru>
 
 #include <shared_ptr.hpp>

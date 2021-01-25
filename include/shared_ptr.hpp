@@ -1,4 +1,4 @@
-// Copyright 2021 Slava-100 <svat.strel.2001@gmail.com>
+// Copyright 2021 andreymuskat <andreymuskat@yandex.ru>
 
 #ifndef INCLUDE_SHARED_PTR_HPP_
 #define INCLUDE_SHARED_PTR_HPP_
